@@ -1,0 +1,14 @@
+This is a sample text file.
+It contains multiple lines.
+File Content:
+This is a sample text file.
+It contains multiple lines.
+Each line has some words and characters.
+
+Statistics:
+Total Lines: 3
+Total Words: 14
+Total Characters: 93
+
+
+
