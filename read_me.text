@@ -1,0 +1,65 @@
+Introduction
+The first century spans from the year 1 up to and including the year 100, the second century - from the year 101 up to and including the year 200, etc.
+
+Task
+Given a year, return the century it is in.
+
+Examples
+1705 --> 18
+1900 --> 19
+1601 --> 17
+2000 --> 20
+2742 --> 28
+
+
+TASK2:
+Description:
+Write a function which takes a number and returns the corresponding ASCII char for that value.
+
+Example:
+
+65 --> 'A'
+97 --> 'a'
+48 --> '0
+
+
+TASK 3 :
+Given an array of numbers, check if any of the numbers are the character codes for lower case vowels (a, e, i, o, u).
+
+If they are, change the array value to a string of that vowel.
+
+Return the resulting array.
+
+
+TASK 4 :
+This series of katas will introduce you to basics of doing geometry with computers.
+
+Point objects have attributes x and y.
+
+Write a function calculating distance between Point a and Point b.
+
+Input coordinates fit in range
+−
+50
+⩽
+x
+,
+y
+⩽
+50
+−50⩽x,y⩽50. Tests compare expected result and actual answer with tolerance of 1e-6.
+
+
+
+TASK 5 :
+Sum all the numbers of a given array ( cq. list ), except the highest and the lowest element ( by value, not by index! ).
+
+The highest or lowest element respectively is a single element at each edge, even if there are more than one with the same value.
+
+Mind the input validation.
+
+Example
+{ 6, 2, 1, 8, 10 } => 16
+{ 1, 1, 11, 2, 3 } => 6
+Input validation
+If an empty value ( null, None, Nothing, nil etc. ) is given instead of an array, or the given array is an empty list or a list with only 1 element, return 0.
